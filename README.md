@@ -3,5 +3,5 @@
 
 
 ### Hi there 👋
-- 📫 How to reach me: [](https://www.linkedin.com/in/hari27om/)
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/hari27om/)
 

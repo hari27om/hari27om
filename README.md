@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![](https://komarev.com/ghpvc/?username=your-github-username&color=green)
+![](https://komarev.com/ghpvc/?username=hari27om&color=green)
 
 <!--
 **hari27om/hari27om** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -4,4 +4,5 @@
 
 ### Hi there 👋
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/hari27om/)
+                     :[Mail](hariomtri27@gmail.com)
 

@@ -1,20 +1,16 @@
-- <a href="mailto:hariomtri27@gmail.com?"><img src="https://img.shields.io/badge/gmail-%23DD0031.svg?&style=for-the-badge&logo=gmail&logoColor=white"/></a>
-
 <h1 align="center">Hi 👋, I'm Hari Om Tripathi</h1>
 <h3 align="center">Hey, My name is Hari Om Tripathi, and I am a Software Developer with 1.5+ years of experience specializing in web applications and microservices. Proven expertise in React.js, Node.js and modern DevOps practices. Demonstrated success in optimizing application performance, implementing automated testing, and maintaining high-quality codebases. Strong background in developing RESTful APIs and integrating third-party services. Skilled at analyzing application logs and implementing structured error handling systems.
 I'm always eager to learn new tools and methodologies to improve software delivery! 🚀</h3>
 
 ![](https://komarev.com/ghpvc/?username=hari27om&color=green)
 
-- 👨‍💻 All of my projects are available at [LinkedIn](https://www.linkedin.com/in/hari27om/)
+- 👨‍💻 All of my projects are available at [Github](https://github.com/hari27om)  
 
 - 📫 How to reach me **hariomtri27@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/kulkarniparag4549" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kulkarniparag4549" height="30" width="40" /></a>
-<a href="https://fb.com/parag kulkarni" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="parag kulkarni" height="30" width="40" /></a>
-<a href="https://instagram.com/parag____" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="parag____" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>

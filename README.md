@@ -1,15 +1,10 @@
 ![](https://komarev.com/ghpvc/?username=hari27om&color=green)
-
-### Hi there 👋
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/hari27om/)
 - <a href="mailto:hariomtri27@gmail.com?"><img src="https://img.shields.io/badge/gmail-%23DD0031.svg?&style=for-the-badge&logo=gmail&logoColor=white"/></a>
 
-
-
-
-
-<h1 align="center">Hi 👋, I'm Parag Kulkarni</h1>
-<h3 align="center">Hey, My name is Parag Kulkarni, and I am a DevOps⚙️ Engineer passionate about cloud computing automation, and CI/CD. I specialize in optimizing workflows, enhancing infrastructure, and ensuring seamless deployments. My experience with cloud platforms, containerization, and Infrastructure as Code (IaC) helps me build scalable and efficient solutions. I'm always eager to learn new tools and methodologies to improve software delivery! 🚀</h3>
+<h1 align="center">Hi 👋, I'm Hari Om Tripathi</h1>
+<h3 align="center">Hey, My name is Hari Om Tripathi, and I am a Software Developer with 1.5+ years of experience specializing in web applications and microservices. Proven expertise in React.js, Node.js and modern DevOps practices. Demonstrated success in optimizing application performance, implementing automated testing, and maintaining high-quality codebases. Strong background in developing RESTful APIs and integrating third-party services. Skilled at analyzing application logs and implementing structured error handling systems.
+I'm always eager to learn new tools and methodologies to improve software delivery! 🚀</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=paragkulkarni4549&label=Profile%20views&color=0e75b6&style=flat" alt="paragkulkarni4549" /> </p>
 

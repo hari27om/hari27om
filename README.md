@@ -7,8 +7,6 @@ I'm always eager to learn new tools and methodologies to improve software delive
 
 ![](https://komarev.com/ghpvc/?username=hari27om&color=green)
 
-- 👨‍💻 All of my projects are available at [Github](https://github.com/hari27om)  
-
 - 📫 How to reach me **hariomtri27@gmail.com**
 
 <h3 align="left">Connect with me:</h3>

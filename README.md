@@ -2,7 +2,7 @@
 <h3 align="center">I am a Software Developer with 2+ years of experience specializing in web applications and microservices. Proven expertise in React.js, Node.js and modern DevOps practices. Demonstrated success in optimizing application performance, implementing automated testing, and maintaining high-quality codebases. Strong background in developing RESTful APIs and integrating third-party services. Skilled at analyzing application logs and implementing structured error handling systems.
 I'm always eager to learn new tools and methodologies to improve software delivery! 🚀</h3>
 
-![](https://komarev.com/ghpvc/?username=hari27om&color=green)
+<img src="https://komarev.com/ghpvc/?username=hari27om&color=green" height="50" />
 
 - 📫 How to reach me **hariomtri27@gmail.com**
 
